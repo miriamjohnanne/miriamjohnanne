@@ -3,7 +3,7 @@
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
   <p>
-    I am Miriam(she/they), a self-taught programmer and researcher who has recently dedicated herself to
+    Shalom, I am Miriam Johnanne(she/they), a self-taught programmer and researcher who has recently dedicated herself to
     pursuing coding with a heightened commitment. My proficiency lies
     in HTML/CSS, skills honed since my teenage years when I embarked on coding
     endeavors to enhance the aesthetics of my Tumblr blog. In addition, I
@@ -12,7 +12,7 @@
     acquired through extensive coursework during my undergraduate studies in social 
     science statistics. Currently, I am actively engaged in the acquisition of
     skills in SQL, Python, and JavaScript.<br>
-    My areas of research interest, encompass the following domains: <br>
+    My areas of research interest encompass the following domains: <br>
   ❥the Ancient MENA region, specifically delving into the lives of women within that context, with a particular emphasis on their religious experiences<br>
   ❥the academic history and theoretical frameworks prevalent in Germany from the early 1800s through World War Two; Eastern European and German Jewish history<br>
   ❥the study of reception history concerning the genesis of the "Bible" and its manifold translations, interpretations, and adaptations<br>
@@ -40,9 +40,9 @@
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
 <h3>Ways to Connect/Contact Me</h3>
-  <a href="https://www.linkedin.com/in/skyla-weyrich/"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/linkedin.png" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/miriamjohnanne/"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/linkedin.png" alt="linkedin"/></a>
   <a href="https://www.discordapp.com/users/271470555989934080"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/discord-logo.png" alt="discord-logo"/></a>
-  <a href="mailto:heartofmiriam@proton.me"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/new-post--v2.png" alt="new-post--v2"/></a>
+  <a href="mailto:miriamjohnanne@proton.me"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/new-post--v2.png" alt="new-post--v2"/></a>
   <a href="https://g.dev/heartofmary"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/arcade/64/under-computer.png" alt="under-computer"/></a>
   <a href="https://learn.microsoft.com/en-us/users/skylaweyrich-8680/" target="_blank" rel="noopener noreferrer"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio--v2.png" alt="visual-studio--v2"/></a>
   <a href="https://www.salesforce.com/trailblazer/heartofmiriam"  target="_blank" rel="noopener noreferrer"><img width="64" height="64" src="https://img.icons8.com/dusk/64/salesforce.png" alt="salesforce"/></a>
