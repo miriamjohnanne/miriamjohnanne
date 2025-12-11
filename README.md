@@ -54,5 +54,5 @@
 <h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=miriamjohnanne&theme=jolly&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriamjohnanne&layout=donut&theme=jolly">
-<img src="https://komarev.com/ghpvc/?username=heartofmiriam&color=blueviolet&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=miriamjohnanne&color=blueviolet&style=plastic">
 <img src="https://hit.yhype.me/github/profile?user_id=112267889">
