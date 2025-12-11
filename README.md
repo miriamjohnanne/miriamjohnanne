@@ -52,7 +52,4 @@
     src="https://64.media.tumblr.com/a98a750a70d0cc8d12658da85d4f6c3c/b667e5c915ef1e27-52/s500x750/34f19c2c50b851e6e8984688f4aeb5b3ea692e44.gif"
   />
 <h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=miriamjohnanne&theme=jolly&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miriamjohnanne&layout=donut&theme=jolly">
-<img src="https://komarev.com/ghpvc/?username=miriamjohnanne&color=blueviolet&style=plastic">
-<img src="https://hit.yhype.me/github/profile?user_id=112267889">
+<img src="https://githubcard.com/miriamjohnanne.svg?d=9tTFRzTC">
